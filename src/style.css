@@ -40,7 +40,8 @@ img {
   display: block;
 }
 
-a {
+a,
+button {
   color: var(--font-body);
 }
 
