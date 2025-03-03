@@ -40,6 +40,10 @@ img {
   display: block;
 }
 
+a {
+  color: var(--font-body);
+}
+
 a:visited {
   color: inherit;
 }
